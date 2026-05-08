@@ -1,4 +1,102 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/7c3f5186386c3708ef189ca2e68e495b.png" group-title="Canais Globo",MS - GLOBO TV MORENA CAMPO GRANDE FHD
+http://avu.lat/live/246280519/864769056/429375.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/7c3f5186386c3708ef189ca2e68e495b.png" group-title="Canais Globo",MS - GLOBO TV MORENA CAMPO GRANDE HD
+http://avu.lat/live/246280519/864769056/429376.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/7c3f5186386c3708ef189ca2e68e495b.png" group-title="Canais Globo",MS - GLOBO TV MORENA CAMPO GRANDE SD
+http://avu.lat/live/246280519/864769056/429377.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/7c3f5186386c3708ef189ca2e68e495b.png" group-title="Canais Globo",MS - GLOBO TV MORENA PONTA PORA FHD
+http://avu.lat/live/246280519/864769056/429378.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/7c3f5186386c3708ef189ca2e68e495b.png" group-title="Canais Globo",MS - GLOBO TV MORENA PONTA PORA HD
+http://avu.lat/live/246280519/864769056/429379.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/7c3f5186386c3708ef189ca2e68e495b.png" group-title="Canais Globo",MS - GLOBO TV MORENA PONTA PORA SD
+http://avu.lat/live/246280519/864769056/429380.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="Canais SBT",SBT SP FHD
+http://avu.lat/live/246280519/864769056/423885.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="Canais SBT",SBT SP HD
+http://avu.lat/live/246280519/864769056/423886.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="Canais SBT",SBT SP SD
+http://avu.lat/live/246280519/864769056/423887.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k0raCvV.png" group-title="Canais SBT",+SBT NOVELAS
+http://avu.lat/live/246280519/864769056/424253.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais Record",RECORD SP FHD
+http://avu.lat/live/246280519/864769056/425387.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais Record",RECORD SP HD
+http://avu.lat/live/246280519/864769056/425388.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais Record",RECORD SP SD
+http://avu.lat/live/246280519/864769056/425389.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="Canais Band",BAND SP FHD
+http://avu.lat/live/246280519/864769056/424780.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="Canais Band",BAND SP HD
+http://avu.lat/live/246280519/864769056/424781.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="Canais Band",BAND SP SD
+http://avu.lat/live/246280519/864769056/424782.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" group-title="Canais Documentários",ANIMAL PLANET FHD
+http://avu.lat/live/246280519/864769056/431378.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" group-title="Canais Documentários",ANIMAL PLANET HD
+http://avu.lat/live/246280519/864769056/431379.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" group-title="Canais Documentários",ANIMAL PLANET SD
+http://avu.lat/live/246280519/864769056/431380.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" group-title="Canais Documentários",DISCOVERY CHANNEL FHD
+http://avu.lat/live/246280519/864769056/431381.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" group-title="Canais Documentários",DISCOVERY CHANNEL HD
+http://avu.lat/live/246280519/864769056/431382.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" group-title="Canais Documentários",DISCOVERY CHANNEL SD
+http://avu.lat/live/246280519/864769056/431383.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" group-title="Canais Documentários",DISCOVERY HOME & HEALTH FHD
+http://avu.lat/live/246280519/864769056/431384.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" group-title="Canais Documentários",DISCOVERY HOME & HEALTH HD
+http://avu.lat/live/246280519/864769056/431385.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" group-title="Canais Documentários",DISCOVERY HOME & HEALTH SD
+http://avu.lat/live/246280519/864769056/431386.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" group-title="Canais Documentários",DISCOVERY SCIENCE FHD
+http://avu.lat/live/246280519/864769056/431387.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" group-title="Canais Documentários",DISCOVERY SCIENCE HD
+http://avu.lat/live/246280519/864769056/431388.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" group-title="Canais Documentários",DISCOVERY SCIENCE SD
+http://avu.lat/live/246280519/864769056/431389.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" group-title="Canais Documentários",DISCOVERY THEATER FHD
+http://avu.lat/live/246280519/864769056/431390.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" group-title="Canais Documentários",DISCOVERY THEATER HD
+http://avu.lat/live/246280519/864769056/431391.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" group-title="Canais Documentários",DISCOVERY THEATER SD
+http://avu.lat/live/246280519/864769056/431392.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" group-title="Canais Documentários",DISCOVERY TLC FHD
+http://avu.lat/live/246280519/864769056/431393.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" group-title="Canais Documentários",DISCOVERY TLC HD
+http://avu.lat/live/246280519/864769056/431394.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" group-title="Canais Documentários",DISCOVERY TLC SD
+http://avu.lat/live/246280519/864769056/431395.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" group-title="Canais Documentários",DISCOVERY TURBO FHD
+http://avu.lat/live/246280519/864769056/431396.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" group-title="Canais Documentários",DISCOVERY TURBO HD
+http://avu.lat/live/246280519/864769056/431397.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" group-title="Canais Documentários",DISCOVERY TURBO SD
+http://avu.lat/live/246280519/864769056/431398.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="Canais Documentários",DISCOVERY WORLD FHD
+http://avu.lat/live/246280519/864769056/431399.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="Canais Documentários",DISCOVERY WORLD HD
+http://avu.lat/live/246280519/864769056/431400.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="Canais Documentários",DISCOVERY WORLD SD
+http://avu.lat/live/246280519/864769056/431401.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/ce70575f7ed3bb212ae01274838f02ea.png" group-title="Canais Documentários",H2 FHD
+http://avu.lat/live/246280519/864769056/431402.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/ce70575f7ed3bb212ae01274838f02ea.png" group-title="Canais Documentários",H2 HD
+http://avu.lat/live/246280519/864769056/431403.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/ce70575f7ed3bb212ae01274838f02ea.png" group-title="Canais Documentários",H2 SD
+http://avu.lat/live/246280519/864769056/431404.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/a88239c0a807add99a35d34163dd1ecb.png" group-title="Canais Documentários",HGTV  FHD
+http://avu.lat/live/246280519/864769056/431405.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/a88239c0a807add99a35d34163dd1ecb.png" group-title="Canais Documentários",HGTV HD
+http://avu.lat/live/246280519/864769056/431406.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/a88239c0a807add99a35d34163dd1ecb.png" group-title="Canais Documentários",HGTV SD
+http://avu.lat/live/246280519/864769056/431407.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/5d83de1c9f32e1adaf68625c99c29ac4.png" group-title="Canais Documentários",HISTORY CHANNEL FHD
+http://avu.lat/live/246280519/864769056/431408.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/5d83de1c9f32e1adaf68625c99c29ac4.png" group-title="Canais Documentários",HISTORY CHANNEL HD
+http://avu.lat/live/246280519/864769056/431409.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/5d83de1c9f32e1adaf68625c99c29ac4.png" group-title="Canais Documentários",HISTORY CHANNEL SD
+http://avu.lat/live/246280519/864769056/431410.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/c4fc4634e6e6ee29f11f364ec8e0e25d.png" group-title="Canais 4K",Animal Planet 4K
 http://avu.lat/live/246280519/864769056/413312.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/042dba4d2faaa29cd2fa4c0125416d25.png" group-title="Canais 4K",AXN 4K
@@ -127,6 +225,36 @@ http://avu.lat/live/246280519/864769056/418581.ts
 http://avu.lat/live/246280519/864769056/418582.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="Canais H265",DISCOVERY WORLD (H265)
 http://avu.lat/live/246280519/864769056/418583.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/9030d0b09e72264d6fb51b6ea9d629d5.png" group-title="Canais Filmes e Séries ",TNT NOVELAS FHD
+http://avu.lat/live/246280519/864769056/430636.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/9030d0b09e72264d6fb51b6ea9d629d5.png" group-title="Canais Filmes e Séries ",TNT NOVELAS HD
+http://avu.lat/live/246280519/864769056/430637.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/9030d0b09e72264d6fb51b6ea9d629d5.png" group-title="Canais Filmes e Séries ",TNT NOVELAS SD
+http://avu.lat/live/246280519/864769056/430638.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/a9254defaeee8ed5984a923fe47e5ef8.png" group-title="Canais Filmes e Séries ",TCM FHD
+http://avu.lat/live/246280519/864769056/430639.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/a9254defaeee8ed5984a923fe47e5ef8.png" group-title="Canais Filmes e Séries ",TCM HD
+http://avu.lat/live/246280519/864769056/430640.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/a9254defaeee8ed5984a923fe47e5ef8.png" group-title="Canais Filmes e Séries ",TCM SD
+http://avu.lat/live/246280519/864769056/430641.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="Canais Filmes e Séries ",TNT FHD
+http://avu.lat/live/246280519/864769056/430642.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="Canais Filmes e Séries ",TNT HD
+http://avu.lat/live/246280519/864769056/430643.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="Canais Filmes e Séries ",TNT SD
+http://avu.lat/live/246280519/864769056/430644.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/83325be20ecb33376512171493c0d255.png" group-title="Canais Filmes e Séries ",TNT SERIES FHD
+http://avu.lat/live/246280519/864769056/430645.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/83325be20ecb33376512171493c0d255.png" group-title="Canais Filmes e Séries ",TNT SERIES HD
+http://avu.lat/live/246280519/864769056/430646.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/83325be20ecb33376512171493c0d255.png" group-title="Canais Filmes e Séries ",TNT SERIES SD
+http://avu.lat/live/246280519/864769056/430647.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/fb4d6202f338d413741074231eac543f.png" group-title="Canais Filmes e Séries ",TV BRASIL FHD
+http://avu.lat/live/246280519/864769056/430648.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/fb4d6202f338d413741074231eac543f.png" group-title="Canais Filmes e Séries ",TV BRASIL HD
+http://avu.lat/live/246280519/864769056/430649.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/fb4d6202f338d413741074231eac543f.png" group-title="Canais Filmes e Séries ",TV BRASIL SD
+http://avu.lat/live/246280519/864769056/430650.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/3a3ea00cfc35332cedf6e5e9a32e94da.png" group-title="Canais H265",E! (H265)
 http://avu.lat/live/246280519/864769056/418584.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="Canais H265",ESPN (H265)
@@ -261,6 +389,60 @@ http://avu.lat/live/246280519/864769056/418648.ts
 http://avu.lat/live/246280519/864769056/418649.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/83325be20ecb33376512171493c0d255.png" group-title="Canais H265",TNT SERIES (H265)
 http://avu.lat/live/246280519/864769056/418650.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN H265
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/523673
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN FHD
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/494901
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN HD
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/454345
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN SD
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/523672
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 2 H265
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/236
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 2 FHD
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/450103
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 2 HD
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/505857
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 2 SD
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/432374
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 3 FHD
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/772
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 3 H265
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/237
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 3 HD
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/23
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 3 SD
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/476
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 4 FHD
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/497306
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 4 HD 
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/494039
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 4 SD
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/503687
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 5 FHD
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/773
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 5 H265
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/245
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 5 HD
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/32
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 5 SD
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/484
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 6 FHD
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/770
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 6 H265
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/235
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 6 HD
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/26
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 6 SD
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76661
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/aa47a4e507bced4a1d0245d080e67015.png" group-title="Canais SPORTV",SPORTV 1 UHD
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/776
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/aa47a4e507bced4a1d0245d080e67015.png" group-title="Canais SPORTV",SPORTV 1 FHD
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/88556
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/aa47a4e507bced4a1d0245d080e67015.png" group-title="Canais SPORTV",SPORTV 1 HD
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/73
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/aa47a4e507bced4a1d0245d080e67015.png" group-title="Canais SPORTV",SPORTV 1 SD
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/87150
 #EXTINF:-1 tvg-logo="" group-title="Canais H265",TRACE (H265)
 http://avu.lat/live/246280519/864769056/418651.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PX23PtN.png" group-title="Canais H265",TV APARECIDA (H265)
@@ -285,12 +467,6 @@ http://avu.lat/live/246280519/864769056/418660.ts
 http://avu.lat/live/246280519/864769056/418661.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="Canais SBT",SBT 4K
 http://avu.lat/live/246280519/864769056/423884.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="Canais SBT",SBT SP FHD
-http://avu.lat/live/246280519/864769056/423885.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="Canais SBT",SBT SP HD
-http://avu.lat/live/246280519/864769056/423886.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="Canais SBT",SBT SP SD
-http://avu.lat/live/246280519/864769056/423887.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="Canais SBT",SBT RJ FHD
 http://avu.lat/live/246280519/864769056/423888.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="Canais SBT",SBT AM FHD
@@ -323,20 +499,12 @@ http://avu.lat/live/246280519/864769056/423901.ts
 http://avu.lat/live/246280519/864769056/423902.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="Canais SBT",SBT ALAGOAS FHD
 http://avu.lat/live/246280519/864769056/423903.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k0raCvV.png" group-title="Canais SBT",+SBT NOVELAS
-http://avu.lat/live/246280519/864769056/424253.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k0raCvV.png" group-title="Canais SBT",+SBT RBS TV HD
 http://avu.lat/live/246280519/864769056/424254.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k0raCvV.png" group-title="Canais SBT",+SBT SILVIO SANTOS
 http://avu.lat/live/246280519/864769056/424255.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k0raCvV.png" group-title="Canais SBT",+SBT POP
 http://avu.lat/live/246280519/864769056/424256.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="Canais Band",BAND SP FHD
-http://avu.lat/live/246280519/864769056/424780.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="Canais Band",BAND SP HD
-http://avu.lat/live/246280519/864769056/424781.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="Canais Band",BAND SP SD
-http://avu.lat/live/246280519/864769056/424782.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="Canais Band",BAND BRASILIA
 http://avu.lat/live/246280519/864769056/424783.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="Canais Band",BAND CAMPINAS FHD
@@ -355,12 +523,6 @@ http://avu.lat/live/246280519/864769056/424789.ts
 http://avu.lat/live/246280519/864769056/424790.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="Canais Band",BAND RS
 http://avu.lat/live/246280519/864769056/424791.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais Record",RECORD SP FHD
-http://avu.lat/live/246280519/864769056/425387.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais Record",RECORD SP HD
-http://avu.lat/live/246280519/864769056/425388.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais Record",RECORD SP SD
-http://avu.lat/live/246280519/864769056/425389.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais Record",RECORD RJ HD
 http://avu.lat/live/246280519/864769056/425390.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais Record",RECORD MINAS HD
@@ -417,18 +579,6 @@ http://avu.lat/live/246280519/864769056/429372.ts
 http://avu.lat/live/246280519/864769056/429373.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/7c3f5186386c3708ef189ca2e68e495b.png" group-title="Canais Globo",MS - GLOBO TV MORENA CORUMBA SD
 http://avu.lat/live/246280519/864769056/429374.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/7c3f5186386c3708ef189ca2e68e495b.png" group-title="Canais Globo",MS - GLOBO TV MORENA CAMPO GRANDE FHD
-http://avu.lat/live/246280519/864769056/429375.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/7c3f5186386c3708ef189ca2e68e495b.png" group-title="Canais Globo",MS - GLOBO TV MORENA CAMPO GRANDE HD
-http://avu.lat/live/246280519/864769056/429376.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/7c3f5186386c3708ef189ca2e68e495b.png" group-title="Canais Globo",MS - GLOBO TV MORENA CAMPO GRANDE SD
-http://avu.lat/live/246280519/864769056/429377.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/7c3f5186386c3708ef189ca2e68e495b.png" group-title="Canais Globo",MS - GLOBO TV MORENA PONTA PORA FHD
-http://avu.lat/live/246280519/864769056/429378.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/7c3f5186386c3708ef189ca2e68e495b.png" group-title="Canais Globo",MS - GLOBO TV MORENA PONTA PORA HD
-http://avu.lat/live/246280519/864769056/429379.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/7c3f5186386c3708ef189ca2e68e495b.png" group-title="Canais Globo",MS - GLOBO TV MORENA PONTA PORA SD
-http://avu.lat/live/246280519/864769056/429380.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/9c6af5c3ff24dac5945c7397daa43466.png" group-title="Canais Noticias",BAND NEWS FHD
 http://avu.lat/live/246280519/864769056/429486.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/9c6af5c3ff24dac5945c7397daa43466.png" group-title="Canais Noticias",BAND NEWS HD
@@ -743,36 +893,6 @@ http://avu.lat/live/246280519/864769056/430633.ts
 http://avu.lat/live/246280519/864769056/430634.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/2cccd0dfdcb93796cdda913ab1a208b0.png" group-title="Canais Filmes e Séries ",USA SD
 http://avu.lat/live/246280519/864769056/430635.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/9030d0b09e72264d6fb51b6ea9d629d5.png" group-title="Canais Filmes e Séries ",TNT NOVELAS FHD
-http://avu.lat/live/246280519/864769056/430636.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/9030d0b09e72264d6fb51b6ea9d629d5.png" group-title="Canais Filmes e Séries ",TNT NOVELAS HD
-http://avu.lat/live/246280519/864769056/430637.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/9030d0b09e72264d6fb51b6ea9d629d5.png" group-title="Canais Filmes e Séries ",TNT NOVELAS SD
-http://avu.lat/live/246280519/864769056/430638.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/a9254defaeee8ed5984a923fe47e5ef8.png" group-title="Canais Filmes e Séries ",TCM FHD
-http://avu.lat/live/246280519/864769056/430639.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/a9254defaeee8ed5984a923fe47e5ef8.png" group-title="Canais Filmes e Séries ",TCM HD
-http://avu.lat/live/246280519/864769056/430640.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/a9254defaeee8ed5984a923fe47e5ef8.png" group-title="Canais Filmes e Séries ",TCM SD
-http://avu.lat/live/246280519/864769056/430641.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="Canais Filmes e Séries ",TNT FHD
-http://avu.lat/live/246280519/864769056/430642.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="Canais Filmes e Séries ",TNT HD
-http://avu.lat/live/246280519/864769056/430643.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="Canais Filmes e Séries ",TNT SD
-http://avu.lat/live/246280519/864769056/430644.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/83325be20ecb33376512171493c0d255.png" group-title="Canais Filmes e Séries ",TNT SERIES FHD
-http://avu.lat/live/246280519/864769056/430645.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/83325be20ecb33376512171493c0d255.png" group-title="Canais Filmes e Séries ",TNT SERIES HD
-http://avu.lat/live/246280519/864769056/430646.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/83325be20ecb33376512171493c0d255.png" group-title="Canais Filmes e Séries ",TNT SERIES SD
-http://avu.lat/live/246280519/864769056/430647.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/fb4d6202f338d413741074231eac543f.png" group-title="Canais Filmes e Séries ",TV BRASIL FHD
-http://avu.lat/live/246280519/864769056/430648.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/fb4d6202f338d413741074231eac543f.png" group-title="Canais Filmes e Séries ",TV BRASIL HD
-http://avu.lat/live/246280519/864769056/430649.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/fb4d6202f338d413741074231eac543f.png" group-title="Canais Filmes e Séries ",TV BRASIL SD
-http://avu.lat/live/246280519/864769056/430650.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/b3a2f01892369e5b23cf81026937c078.png" group-title="Canais Filmes e Séries ",WARNER CHANNEL FHD
 http://avu.lat/live/246280519/864769056/430651.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/b3a2f01892369e5b23cf81026937c078.png" group-title="Canais Filmes e Séries ",WARNER CHANNEL HD
@@ -791,72 +911,6 @@ http://avu.lat/live/246280519/864769056/430657.ts
 http://avu.lat/live/246280519/864769056/430658.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kbL0rsI.png" group-title="Canais Filmes e Séries ",EUROCHANNEL SD
 http://avu.lat/live/246280519/864769056/430659.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" group-title="Canais Documentários",ANIMAL PLANET FHD
-http://avu.lat/live/246280519/864769056/431378.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" group-title="Canais Documentários",ANIMAL PLANET HD
-http://avu.lat/live/246280519/864769056/431379.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" group-title="Canais Documentários",ANIMAL PLANET SD
-http://avu.lat/live/246280519/864769056/431380.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" group-title="Canais Documentários",DISCOVERY CHANNEL FHD
-http://avu.lat/live/246280519/864769056/431381.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" group-title="Canais Documentários",DISCOVERY CHANNEL HD
-http://avu.lat/live/246280519/864769056/431382.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" group-title="Canais Documentários",DISCOVERY CHANNEL SD
-http://avu.lat/live/246280519/864769056/431383.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" group-title="Canais Documentários",DISCOVERY HOME & HEALTH FHD
-http://avu.lat/live/246280519/864769056/431384.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" group-title="Canais Documentários",DISCOVERY HOME & HEALTH HD
-http://avu.lat/live/246280519/864769056/431385.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" group-title="Canais Documentários",DISCOVERY HOME & HEALTH SD
-http://avu.lat/live/246280519/864769056/431386.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" group-title="Canais Documentários",DISCOVERY SCIENCE FHD
-http://avu.lat/live/246280519/864769056/431387.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" group-title="Canais Documentários",DISCOVERY SCIENCE HD
-http://avu.lat/live/246280519/864769056/431388.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" group-title="Canais Documentários",DISCOVERY SCIENCE SD
-http://avu.lat/live/246280519/864769056/431389.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" group-title="Canais Documentários",DISCOVERY THEATER FHD
-http://avu.lat/live/246280519/864769056/431390.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" group-title="Canais Documentários",DISCOVERY THEATER HD
-http://avu.lat/live/246280519/864769056/431391.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" group-title="Canais Documentários",DISCOVERY THEATER SD
-http://avu.lat/live/246280519/864769056/431392.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" group-title="Canais Documentários",DISCOVERY TLC FHD
-http://avu.lat/live/246280519/864769056/431393.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" group-title="Canais Documentários",DISCOVERY TLC HD
-http://avu.lat/live/246280519/864769056/431394.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" group-title="Canais Documentários",DISCOVERY TLC SD
-http://avu.lat/live/246280519/864769056/431395.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" group-title="Canais Documentários",DISCOVERY TURBO FHD
-http://avu.lat/live/246280519/864769056/431396.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" group-title="Canais Documentários",DISCOVERY TURBO HD
-http://avu.lat/live/246280519/864769056/431397.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" group-title="Canais Documentários",DISCOVERY TURBO SD
-http://avu.lat/live/246280519/864769056/431398.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="Canais Documentários",DISCOVERY WORLD FHD
-http://avu.lat/live/246280519/864769056/431399.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="Canais Documentários",DISCOVERY WORLD HD
-http://avu.lat/live/246280519/864769056/431400.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="Canais Documentários",DISCOVERY WORLD SD
-http://avu.lat/live/246280519/864769056/431401.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/ce70575f7ed3bb212ae01274838f02ea.png" group-title="Canais Documentários",H2 FHD
-http://avu.lat/live/246280519/864769056/431402.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/ce70575f7ed3bb212ae01274838f02ea.png" group-title="Canais Documentários",H2 HD
-http://avu.lat/live/246280519/864769056/431403.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/ce70575f7ed3bb212ae01274838f02ea.png" group-title="Canais Documentários",H2 SD
-http://avu.lat/live/246280519/864769056/431404.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/a88239c0a807add99a35d34163dd1ecb.png" group-title="Canais Documentários",HGTV  FHD
-http://avu.lat/live/246280519/864769056/431405.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/a88239c0a807add99a35d34163dd1ecb.png" group-title="Canais Documentários",HGTV HD
-http://avu.lat/live/246280519/864769056/431406.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/a88239c0a807add99a35d34163dd1ecb.png" group-title="Canais Documentários",HGTV SD
-http://avu.lat/live/246280519/864769056/431407.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/5d83de1c9f32e1adaf68625c99c29ac4.png" group-title="Canais Documentários",HISTORY CHANNEL FHD
-http://avu.lat/live/246280519/864769056/431408.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/5d83de1c9f32e1adaf68625c99c29ac4.png" group-title="Canais Documentários",HISTORY CHANNEL HD
-http://avu.lat/live/246280519/864769056/431409.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/5d83de1c9f32e1adaf68625c99c29ac4.png" group-title="Canais Documentários",HISTORY CHANNEL SD
-http://avu.lat/live/246280519/864769056/431410.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" group-title="Canais Documentários",ID - INVESTIGA\u00c7\u00c3O DISCOVERY FHD
 http://avu.lat/live/246280519/864769056/431411.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" group-title="Canais Documentários",ID - INVESTIGA\u00c7\u00c3O DISCOVERY HD
@@ -1953,60 +2007,6 @@ http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/529221
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/529222
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H8wd180.png" group-title="Canais HBO MAX CHAMPIONS LEAGUE",HBO MAX 08
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/529223
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN H265
-http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/523673
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN FHD
-http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/494901
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN HD
-http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/454345
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN SD
-http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/523672
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 2 H265
-http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/236
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 2 FHD
-http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/450103
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 2 HD
-http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/505857
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 2 SD
-http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/432374
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 3 FHD
-http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/772
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 3 H265
-http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/237
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 3 HD
-http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/23
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 3 SD
-http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/476
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 4 FHD
-http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/497306
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 4 HD 
-http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/494039
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 4 SD
-http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/503687
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 5 FHD
-http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/773
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 5 H265
-http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/245
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 5 HD
-http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/32
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 5 SD
-http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/484
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 6 FHD
-http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/770
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 6 H265
-http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/235
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 6 HD
-http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/26
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" group-title="Canais ESPN",ESPN 6 SD
-http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76661
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/aa47a4e507bced4a1d0245d080e67015.png" group-title="Canais SPORTV",SPORTV 1 UHD
-http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/776
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/aa47a4e507bced4a1d0245d080e67015.png" group-title="Canais SPORTV",SPORTV 1 FHD
-http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/88556
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/aa47a4e507bced4a1d0245d080e67015.png" group-title="Canais SPORTV",SPORTV 1 HD
-http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/73
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/aa47a4e507bced4a1d0245d080e67015.png" group-title="Canais SPORTV",SPORTV 1 SD
-http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/87150
 #EXTINF:-1 tvg-logo="https://marinheirolukas-debug.github.io/Lista-IPTV-do-Marinheiro/logo.png" group-title="Canais ESPORTES PPV",PPV EXTRA 02
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/454757
 #EXTINF:-1 tvg-logo="https://marinheirolukas-debug.github.io/Lista-IPTV-do-Marinheiro/logo.png" group-title="Canais ESPORTES PPV",PPV EXTRA 03
